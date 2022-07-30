@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MrMurphyOfficial
-- 🌱 I’m currently learning Lua, PHP for FiveM Developments
+- 🌱 I’m currently learning Lua for FiveM Developments
 - 📫 How to reach me 
-|> Discord: Mr Murphy#8643
+|> Discord: Zeus Network#0001
